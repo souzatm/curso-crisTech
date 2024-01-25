@@ -1,4 +1,6 @@
-﻿namespace curso_crisTech.Models
+﻿// Model para mostrar os dados da requisição
+
+namespace curso_crisTech.Models
 {
     public class ServiceResponse<T>
     {
